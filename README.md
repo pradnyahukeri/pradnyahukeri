@@ -7,7 +7,7 @@
  <a href="https://www.linkedin.com/in/pradnyahukeri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/pradnyahukeri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
 
 ## Education
->### Data Science Course (Spiced Academy)
+> ### Data Science Course - Spiced Academy, Berlin (April 2023 - July 2023)
 >
 > ### Shivaji University, India
 > 
