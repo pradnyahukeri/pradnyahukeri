@@ -4,7 +4,7 @@
 
 ### Follow me on:
 
- <a href="https://www.linkedin.com/in/pradnyahukeri“><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/pradnyahukeri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/pradnyahukeri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>&nbsp;&nbsp;<a href="https://www.kaggle.com/pradnyahukeri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>&nbsp;&nbsp;
 
 ## Education
 > ### Shivaji University, India
@@ -12,7 +12,7 @@
 > **Master of Engineering in Electronics and Telecommunication *(2015 - 2017)***
 > 
 > 
-> **Bachelor of Engineering in Electronic *(2011 - 2015)***
+> **Bachelor of Engineering in Electronics *(2011 - 2015)***
 >
 
 
